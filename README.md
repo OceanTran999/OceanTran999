@@ -1,6 +1,6 @@
 - 👋 Hi, I’m OceanTran.
 - 👀 I’m interested in coding and CTF (CTF beginner).
-- 🌱 I’m currently learning Information Security at Universtiy of Information Technology (UIT) - VNUHCM
+- 🌱 Bachelor of Information Security at Universtiy of Information Technology (UIT) - VNUHCM
 - 💞️ I’m looking to collaborate on working with friendly, enthusiastic teammates to learn and gain experiences with each others.
 - 📫 You can contact with me: `oceantran999@gmail.com`
 
